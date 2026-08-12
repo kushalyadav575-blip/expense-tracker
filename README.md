@@ -21,6 +21,7 @@ saved to a JSON file so they can be loaded again when the program is restarted.
 
 ## Project Structure
 
+```text
 expense-tracker/
 │
 ├── main.py          # Command-line interface
